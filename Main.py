@@ -61,7 +61,10 @@ def list_is_valid(l, n1, n2):
 
 
 def print_greeting():
-    print("""Hi, and welcome to the...
+    print("""
+    
+    
+    Hi, and welcome to the...
      ___        ______                                   _                        _                
     / \ \      / / ___|   ___  ___ _ ____   _____ _ __  | | __ _ _   _ _ __   ___| |__   ___ _ __  
    / _ \ \ /\ / /\___ \  / __|/ _ \ '__\ \ / / _ \ '__| | |/ _` | | | | '_ \ / __| '_ \ / _ \ '__| 
